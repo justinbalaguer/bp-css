@@ -251,7 +251,7 @@ width:undefinedpx !important;
 // display: none;
 // }
 
-#react-select-2-listbox {
+.bpw-chat-bubble-content>div>div #react-select-2-listbox {
   position: relative;
   display: inline-block;
 }
